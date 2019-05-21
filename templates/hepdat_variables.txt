@@ -1,0 +1,6 @@
+$forstamt
+$fu
+$betrieb
+$jahr
+$mb
+$dateiname
